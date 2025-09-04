@@ -10,3 +10,4 @@ public class Collections {
         System.out.println(list2);
     }
 }
+
