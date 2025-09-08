@@ -1,8 +1,8 @@
  Java LinkedList Implementation
 
- Description
-This is a simple singly linked list implementation in Java, done from scratch without using Java’s built-in collection classes.  
 
+ Description:
+This is a simple singly linked list implementation in Java, done from scratch without using Java’s built-in collection classes.  
 It demonstrates basic linked list operations like adding, deleting, and printing nodes.
 
 
