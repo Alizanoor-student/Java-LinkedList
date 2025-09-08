@@ -5,7 +5,6 @@ This is a simple singly linked list implementation in Java, done from scratch wi
 
 It demonstrates basic linked list operations like adding, deleting, and printing nodes.
 
----
 
  Features
 - Add node at the beginning (addFirst)
