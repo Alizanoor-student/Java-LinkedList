@@ -1,15 +1,16 @@
- Recursion Basics in Java
+ Java LinkedList Implementation
 
-This repository contains simple recursion examples written in Java.  
-Each example demonstrates how to solve problems using **base case + recursive case**.
+ Description
+This is a simple singly linked list implementation in Java, done from scratch without using Java’s built-in collection classes.  
 
- 📌 Problems Covered
-- Print numbers from 1 to N
-- Sum of first N natural numbers
-- Factorial of a number
-- Fibonacci sequence (print till Nth term)
+It demonstrates basic linked list operations like adding, deleting, and printing nodes.
 
- 🚀 How to Run
-1. Clone the repo:
-   bash
-   git clone https://github.com/Alizanoor-student/recursion-basics-java.git
+---
+
+ Features
+- Add node at the beginning (addFirst)
+- Add node at the end (addLast)
+- Delete the first node (deleteFirst)
+- Delete the last node (deleteLast)
+- Print the linked list (printList)
+- Get the size of the list (getSize)
